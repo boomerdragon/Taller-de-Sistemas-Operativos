@@ -40,8 +40,8 @@ El semestre se divide en cuatro fases críticas para el dominio de la administra
 
 ## 📂 Organización del Repositorio
 
-* `/Unidad_1_Virtualizacion`: Guías de instalación y configuración de red.
-* `/Unidad_2_Windows_Server`: Scripts de PowerShell y bitácoras de Server Core.
-* `/Unidad_3_Linux_Server`: Comandos de administración, gestión de paquetes y seguridad.
-* `/Unidad_4_Interoperabilidad`: Guías para conectar servicios entre Windows y Linux.
+* [`/Unidad_1_Virtualizacion`](Unidad_1_Virtualizacion/README.md): Guías de instalación y configuración de red.
+* [`/Unidad_2_Windows_Server`](Unidad_2_Windows_Server/README.md): Scripts de PowerShell y bitácoras de Server Core.
+* [`/Unidad_3_Linux_Server`](Unidad_3_Linux/README.md): Comandos de administración, gestión de paquetes y seguridad.
+* [`/Unidad_4_Interoperabilidad`](Unidad_4_Interoperabilidad/README.md): Guías para conectar servicios entre Windows y Linux.
 * `/Proyecto_Integrador`: Documentación final del servidor híbrido funcional.
